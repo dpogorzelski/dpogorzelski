@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### What I'm currently working on
-[![Rennsport](https://img.youtube.com/vi/PaFo7WbznyY/default.jpg)](https://youtu.be/PaFo7WbznyY)
+[![Rennsport](https://img.youtube.com/vi/CsTsAPN_xcI/default.jpg)](https://www.youtube.com/watch?v=CsTsAPN_xcI)
 
 #### Projects I worked on
 [![Scalar](https://img.youtube.com/vi/B_Fkyj2GYeo/default.jpg)](https://youtu.be/B_Fkyj2GYeo)
