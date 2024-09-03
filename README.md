@@ -1,11 +1,12 @@
 ### Hi there 👋
 
 #### What I'm currently working on
-[![Rennsport](https://img.youtube.com/vi/CsTsAPN_xcI/default.jpg)](https://www.youtube.com/watch?v=CsTsAPN_xcI)
-[![Bevy Multiplayer](https://img.youtube.com/vi/ESVEXQLZhwQ/default.jpg)](https://www.youtube.com/watch?v=ESVEXQLZhwQ)
+[![Project Gundalf](https://pbs.twimg.com/profile_images/1759973896852533248/pb2cDGKH_200x200.jpg)](https://cultofthenorth.com)
+[![Bevy Multiplayer](https://img.youtube.com/vi/ESVEXQLZhwQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ESVEXQLZhwQ)
 
 
 #### Projects I worked on
+[![Rennsport](https://img.youtube.com/vi/CsTsAPN_xcI/default.jpg)](https://www.youtube.com/watch?v=CsTsAPN_xcI)
 [![Scalar](https://img.youtube.com/vi/B_Fkyj2GYeo/default.jpg)](https://youtu.be/B_Fkyj2GYeo)
 [![Avatar: Frontiers of Pandora](https://img.youtube.com/vi/Axmg1E4HrVE/default.jpg)](https://youtu.be/Axmg1E4HrVE)
 [![The Division 2](https://img.youtube.com/vi/MtiGg0P0Kyg/default.jpg)](https://youtu.be/MtiGg0P0Kyg)
