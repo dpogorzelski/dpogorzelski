@@ -2,6 +2,7 @@
 
 #### What I'm currently working on
 [![Project Gundalf](https://pbs.twimg.com/profile_images/1759973896852533248/pb2cDGKH_200x200.jpg)](https://cultofthenorth.com)
+[![We Will be Gods](https://img.youtube.com/vi/DC9_HGa68cI/mqdefault.jpg)](https://youtu.be/DC9_HGa68cI)
 [![Bevy Multiplayer](https://img.youtube.com/vi/ESVEXQLZhwQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ESVEXQLZhwQ)
 
 
