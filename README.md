@@ -7,7 +7,8 @@
 
 
 #### Projects I worked on
-[![We Will Be Gods](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3493410/1908c87cc3868ed34d690b1afef75a0feb5d6918/capsule_616x353.jpg?t=1748001364)](https://www.wewillbegods.com/)
+
+[![We Will Be Gods](https://img.youtube.com/vi/07HL78NeC6c/default.jpg)](https://www.youtube.com/watch?v=07HL78NeC6c)
 [![Rennsport](https://img.youtube.com/vi/CsTsAPN_xcI/default.jpg)](https://www.youtube.com/watch?v=CsTsAPN_xcI)
 [![Scalar](https://img.youtube.com/vi/B_Fkyj2GYeo/default.jpg)](https://youtu.be/B_Fkyj2GYeo)
 [![Avatar: Frontiers of Pandora](https://img.youtube.com/vi/Axmg1E4HrVE/default.jpg)](https://youtu.be/Axmg1E4HrVE)
