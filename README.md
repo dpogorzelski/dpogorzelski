@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My github profile is mostly an archive at this stage.
-I have fully moved onto my own hosting solution.
+I have fully moved onto my own code hosting solution.
 
 #### Projects I worked on
 
