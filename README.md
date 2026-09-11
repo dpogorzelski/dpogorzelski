@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-#### What I'm currently working on
-
-[![Sentinel](https://img.youtube.com/vi/hLvy7l0beV0/mqdefault.jpg)](https://www.youtube.com/watch?v=hLvy7l0beV0)
-[![Bevy Multiplayer](https://img.youtube.com/vi/ESVEXQLZhwQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ESVEXQLZhwQ)
-
+My github profile is mostly an archive at this stage.
+I have fully moved onto my own hosting solution.
 
 #### Projects I worked on
 
